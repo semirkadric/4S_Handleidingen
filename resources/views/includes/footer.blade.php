@@ -1,6 +1,6 @@
 
 <footer>
-	© {{ __('misc.copyright') }}
+  © {{ __('misc.copyright') }} <br> <a href="about"></a><a href="contact">Contact</a>
 </footer>
 
 
